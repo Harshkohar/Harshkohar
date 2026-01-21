@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am Harsh Kohar<br>I am learning Python and Data Science<br>I am working on DSA and solving Leetcode problems, and I love doing that<br>I also worked with HTML, CSS, JavaScript, and PHP, and made a project using the tech stack<br>I am a sports lover and a swift learner <br>I like to explore new technologies and learning new things
-
+Software Developer | Python & Web Development | Problem Solver | Project-Based Learner
+I build scalable, well-structured applications using modern development practices. Strong interest in backend development, APIs, databases, and building complete end-to-end projects. I’m consistent with learning, improving code quality, and writing solutions that are practical and maintainable.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kohar__harsh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kohar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkohar.2004@gmail.com) 
