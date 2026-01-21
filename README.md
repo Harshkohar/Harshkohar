@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer | Python & Web Development | Problem Solver | Project-Based Learner\n
+Software Developer | Python & Web Development | Problem Solver | Project-Based Learner
 I build scalable, well-structured applications using modern development practices. Strong interest in backend development, APIs, databases, and building complete end-to-end projects. I’m consistent with learning, improving code quality, and writing solutions that are practical and maintainable. I’m actively improving my development skills through projects, coding practice, and exploring modern tools and frameworks. Interested in software engineering roles where I can contribute, learn, and grow.
 
 ## 🌐 Socials:
